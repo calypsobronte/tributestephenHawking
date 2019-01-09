@@ -13,4 +13,4 @@ Gran cientifico de los ultimos tiempos.
 
 <!--Link-->
 [Codigo en Codepen]: http://bit.ly/StephenHawking2019
-[Visualizar]: http://bit.ly/Stephen_Hawking2019
+[Visualizar]: http://bit.ly/Stephen_Hawking2019_
